@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Miaozhang Shen(沈淼章)"
-description              : "Focusing on Magnetic robotics, Medical robotics, and Smart Healthcare."
-repository               : "shenmiaozhang.github.io"
+title                    : "Yuyue Yang(杨宇跃)"
+description              : "Focusing on Optical design, computational Imaging."
+repository               : "yuyue-yang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Miaozhang Shen（沈淼章）Leo Shen"
+  name             : "Yuyue Yang(杨宇跃)"
   avatar           : "images/smz.png"
   bio              : "M.S. Student in EIE at SUSTech"
   location         : "Shenzhen, China"
