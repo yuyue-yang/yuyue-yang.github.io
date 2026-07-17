@@ -20,14 +20,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p style="text-align: center; margin-bottom: 2em;">
-  <img src="/images/GBU.jpg" alt="我的装饰图片" style="width: 50%; border-radius: 10px;">
-  <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-top: 10px; letter-spacing: 0.5px;">Capturing the last light over SUSTech.</span>
+  <img src="/images/GBU.jpg" alt="我的装饰图片" style="width: 30%; border-radius: 10px;">
+  <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-top: 10px; letter-spacing: 0.5px;">Capturing the last light over GBU.</span>
 </p>
 
 Hello! Welcome to my website. My name is **Yuyue Yang**. I come from  [Guangdong, China.] 
 
 
-I received my B.S. degree in Measurement Control Technology and Instrumentation from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student in Electronic and Electrical Engineering at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
+I received my B.S. degree in Optoelectronic Information Science and Engineering from [**Shenzhen University**](https://en.szu.edu.cn/) in 2022. Currently, I am an M.S. student in Integrated Circuit Engineering at [**South China Normal University (SCNU)**](https://english.scnu.edu.cn/), starting from 2024.
+
+My research focuses on **computational optics, deep optics, optical design, and machine vision**. I am particularly interested in integrating deep learning with physical optics for applications like monocular depth estimation, metasurface design, and precision optical measurements.
 
 My supervisor are [Prof. Shichen Su (宿世臣)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) and [Prof. Shuming Jiao (焦述铭)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en)
 
@@ -40,137 +42,105 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 
 # 🔥 News
-- *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
-- *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics. 
-- *Mar. 2026*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
-- *Jan. 2026*: &nbsp;🎉🎉 Our paper "Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure" was accepted by Biomimetics.
-- *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎**TOP 3** contributors in Guolab.
-- *Sep. 2025*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**.
-- *Aug. 2025*: &nbsp;🎉🎉 Our paper "Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks" was accepted by Optics Communications.
-- *Jun. 2025*: &nbsp;🎉🎉 Our paper "Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization" was accepted by IEEE IROS 2025.
-- *Jun. 2025*: &nbsp;🎉🎉 Our paper "Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments" was accepted by IEEE ICMA 2025.
-- *Jun. 2025*: &nbsp;🎉🎉 Our paper "A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function" was accepted by IEEE ICMA 2025.
+- *2026*: &nbsp;🎉🎉 Our paper "Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation" is completed/published.
+- *2025*: &nbsp;🎉🎉 Honored to receive the BYD Scholarship and Shenzhen University "Niu Hanben" Scholarship.
+- *Aug. 2025*: &nbsp;🎉🎉 Our paper "Asymmetric Double-Layer Compact Metasurfaces based on Phase-Progressive Diffractive Networks" was accepted.
+- *Sep. 2024*: &nbsp;🎓 Started my M.S. degree in Integrated Circuit Engineering at South China Normal University (SCNU).
+- *Aug. 2024*: &nbsp;🎉🎉 Our invention patent for a monocular laser rangefinder (CN118642263A) was successfully published.
+- *2021*: &nbsp;🏆 Won the 2nd Prize in the Southeast Region at the 9th National College Students Optoelectronic Design Competition (Captain).
+- *2020*: &nbsp;🏆 Won the 2nd Prize in the National Finals at the 8th National College Students Optoelectronic Design Competition (Captain).
 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Selected Publications
+# 📝 Publications & Patents
 
-Representative first-author publications. Additional publications are listed below; the complete record is also available on [Google Scholar](https://scholar.google.com/citations?user=KT1uO6cAAAAJ&hl).
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/TII-2026.png' alt="Physics-informed magnetic localization for capsule endoscopy" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/depth_estimation.pdf' alt="Depth Estimation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy](https://doi.org/10.1109/TII.2026.3688686)
+[Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](#)
 
-**Shen, M.**, Guo, S., Wang, Z. et al.
+**Yuyue Yang**, et al.
 
-*IEEE Transactions on Industrial Informatics*, 2026
+*Under Review / Published*, 2026
+- Developed a differentiable ray-tracing engine using PyTorch to optimize spherical lens groups by introducing axial chromatic aberration loss.
+- Achieved 0.182m RMSE on the NYU v2 dataset with extremely low parameters (25M), surpassing mainstream large visual models.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/IROS2025.png' alt="Physics-informed magnetic dipole model correction and localization" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Comms</div><img src='images/Optics_Communications2025.jpg' alt="Metasurfaces" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization](https://doi.org/10.1109/IROS60139.2025.11246085)
+[Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](#)
 
-**Shen, M.**, Guo, S., Wang, Z. et al.
+**Yuyue Yang**, Azad, F., Huang, Z., Shen, M., Su, S.
 
-*2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China
+*Optics Communications* (or applicable journal), 2025
+- Improved traditional optical neural network algorithms, designing a compact asymmetric double-layer metasurface with 62.5% network degrees of freedom.
 </div>
 </div>
 
-# 📚 Other Publications
-
-<!-- ======================================================== Publications: 2026 ============================================================================= -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA</div><img src='images/icma2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent.png' alt="Patent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/ICMA2026.pdf)
+[A monocular laser rangefinder telescope, measurement method and rangefinder (CN118642263A)](#)
 
-**Shen, M.**, Guo, S. et al.
+**Yuyue Yang**, et al.
 
-*2026 IEEE International Conference on Mechatronics and Automation (ICMA)*, Changchun, China
+*Invention Patent*, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics</div><img src='images/biomimetics2026.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure](https://doi.org/10.3390/biomimetics11010041)
 
-Wang, Z. **Shen, M.**, Guo, S. et al.
-
-*Biomimetics*, Published 2026.1.6
-</div>
-</div>
-
-<!-- ======================================================== Publications: 2025 ============================================================================= -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Communications</div><img src='images/Optics_Communications2025.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376)
-
-Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
-
-*Optics Communications*, Published 2025.8.25
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://doi.org/10.1109/ICMA65362.2025.11120690)
-
-**Shen, M.**, Guo, S., Wang, Z., et al.
-
-*2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function](https://doi.org/10.1109/ICMA65362.2025.11120828)
-
-Wang, Z., **Shen, M.**, Guo, S. et al.
-
-*2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
-</div>
-</div>
 
 # 🎖 Honors and Awards
-- *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; **sole recipient in the department**).
-- *2025* SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**
-- *2021* **1st Place (National)**, National College Students Optoelectronic Design Competition
-- *2021* **1st Prize (Provincial)**, 12th "Lanqiao Cup" Software and IT Competition, Guangdong
-- *2021* Shenzhen University Liyuan Star Scholarship **(Top 5% Scholarship)**
-- *2020* Principal Investigator, Guangdong Provincial Undergraduate Innovation Training Program (¥10k Grant)
-- *2019-2021* Multiple university honors including Excellent Student Leader and Innovation Star Scholarships
+- *2025* BYD Scholarship
+- *2025* Shenzhen University "Niu Hanben" Scholarship
+- *2025* "Innovation and Entrepreneurship Star" 2nd Prize (Team)
+- *2021* **2nd Prize (Southeast Region)**, 9th National College Students Optoelectronic Design Competition (Captain)
+- *2020* **2nd Prize (National Finals)**, 8th National College Students Optoelectronic Design Competition (Captain)
 
 # 📖 Educations
-- *Sep. 2024 - Jun. 2027 (Expected)*, Master of Electronic Information, Southern University of Science and Technology, Shenzhen
-- *Sep. 2018 - Jun. 2022*, Bachelor of Engineering in Measurement Control Technology, Shenzhen University, Shenzhen
+- *Sep. 2024 - Jun. 2027 (Expected)*, Master of Engineering in Integrated Circuit Engineering, South China Normal University (SCNU), Guangzhou
+- *Sep. 2018 - Jun. 2022*, Bachelor of Engineering in Optoelectronic Information Science and Engineering, Shenzhen University, Shenzhen
 
 # 💻 Professional Experience
-- *Apr. 2023 - Aug. 2024*, **Embedded Software Engineer**, [Shenzhen Makeblock Co., Ltd.](https://www.makextool.com/)
-  - Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU & SOC platform).
-  - Solved modular tool recognition issues by implementing a pressure and magnetic dual-sensor fusion scheme, leading to two patent applications.
 - *Dec. 2021 – Oct. 2022*, **Research Assistant**, Shenzhen University (College of Physics and Optoelectronic Engineering)
   - Developed embedded software and hardware for a Battery Management System (BMS) utilizing ultrasonic inspection.
   - Designed and implemented robust sensor fusion algorithms for state-of-charge (SoC) estimation, enhancing measurement stability.
 - *Jul. 2020 – Jul. 2021*, **Founder and Student Chair**, Innovation Laboratory, Shenzhen University
   - Founded and managed the college's first student-led scientific innovation laboratory, leading technical training sessions.
   - Mentored teams for science events, resulting in multiple provincial and national competition awards.
+- *Aug. 2023 - Aug. 2024*, **Optical Engineer (Assistant Engineer)**, Shenzhen Hengtian Weiyan Technology Co., Ltd. (Bushnell Supplier)
+  - Responsible for the optical design and system-level evaluation of laser rangefinders.
+  - Assisted in locating and resolving optical calibration issues during mass production, optimizing optical component selection to achieve a comprehensive balance of product performance and cost.
+- *Feb. 2023 - Aug. 2023*, **Optical Engineer**, Laison Optics (Shenzhen) Co., Ltd.
+  - Developed and debugged core optical algorithms for machine vision projects.
 
-# 💼 Internships
-- *2021.07 - 2021.08*, [AIUTechnology](https://www.aiutechnology.com/), China.
+
 
 # 🛠️ Skills {#skills}
-- **Programming:** ⌨️C/C++, Python, MATLAB
-- **Tools/Software:** 🧰PyTorch, Keil, Altium Designer (PCB), SolidWorks, LaTeX
-- **Hardware/Systems:** 🤖MCU/SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS)
-- **Languages:** 🌐Mandarin (Native), Teochew (Native), English (CET-6)
-- **Interests:** 🧑‍✈️Flight Simulation, 🛩️Drone Design/Prototyping, 📸Photography
+- **Programming:** Python, MATLAB, C/C++
+- **Tools/Software:** Zemax, FDTD, SolidWorks, OpenCV, PyTorch
+- **Languages:** English (CET-4, CET-6)
+- **Certifications:** Assistant Engineer Title (Shenzhen Instruments & Meters Technology Evaluation Committee)
 
 # 🚀 Projects {#projects}
+- **Coaxial Laser Rangefinder Project (Enterprise Project)** | *Core Developer* | *2024*
+  - Participated in the development of a coaxial laser rangefinder based on the 905nm ToF method.
+  - Formulated system specifications and integrated the laser transceiver module using lens splicing and beam-splitting systems.
+  - Conducted optical path design and non-sequential simulation using **Zemax** to evaluate and verify optical component performance for high-precision ranging.
+
+- **Corneal Defect Detection System (Enterprise Project)** | *Project Leader* | *2023*
+  - Led the design of an automated defect detection system for production lines.
+  - Independently selected core hardware (LED light sources, industrial cameras, lenses) and optimized algorithms and light source debugging for various defect types.
+  - Deployed **YOLO** deep learning models for real-time inference and data statistics.
+
+- **Smartphone-based Non-destructive Apple Sugar Measurement** | *Captain* | *2021*
+  - Designed an Android APP-linked non-destructive measurement device based on the diffuse reflection energy ratio of characteristic wavelengths.
+  - Led the selection of LED light sources and photodiodes, built the diffuse reflection light path, and constructed the sugar prediction algorithm model.
+
+- **AI+5G Smart Glasses for the Blind** | *Captain* | *2020*
+  - Designed smart glasses integrating binocular ranging, object recognition, and voice broadcast functions.
+  - Led the implementation of binocular ranging algorithms and successfully deployed the **YOLO** model on a development board, completing the overall structural design.
