@@ -27,8 +27,8 @@ author:
   location         : "Shenzhen, China"
   employer         : "Southern University of Science <br>and Technology(SUSTech)"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=KT1uO6cAAAAJ&hl"
-  email            : "shenmz2024@mail.sustech.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=Lz_VWw4AAAAJ&hl"
+  email            : "2024023860@m.scnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "miaozhang-shen"
+  linkedin         : #"miaozhang-shen"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0006-5906-7236"
+  orcid            : #"https://orcid.org/0009-0006-5906-7236"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

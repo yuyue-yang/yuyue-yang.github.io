@@ -15,21 +15,21 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<h1 style="text-align: center; font-size: 2em;">Hi! 👋 I am Miao-Zhang Shen</h1>
+<h1 style="text-align: center; font-size: 2em;">Hi! 👋 I am yuyue yang</h1>
 
 <span class='anchor' id='about-me'></span>
 
 <p style="text-align: center; margin-bottom: 2em;">
-  <img src="/images/DJI_20251120180653.png" alt="我的装饰图片" style="width: 50%; border-radius: 10px;">
+  <img src="/images/GBU.jpg" alt="我的装饰图片" style="width: 50%; border-radius: 10px;">
   <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-top: 10px; letter-spacing: 0.5px;">Capturing the last light over SUSTech.</span>
 </p>
 
-Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
+Hello! Welcome to my website. My name is **Yuyue Yang**. I come from  [Guangdong, China.] 
 
 
 I received my B.S. degree in Measurement Control Technology and Instrumentation from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student in Electronic and Electrical Engineering at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
 
-My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). [Welcome to GUO Lab!](http://www.guolab.org)
+My supervisor are [Prof. Shichen Su (宿世臣)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) and [Prof. Shuming Jiao (焦述铭)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en)
 
 
 <!-- My research interests include Magnetic robotics, Medical robotics, and Soft robotics. -->
