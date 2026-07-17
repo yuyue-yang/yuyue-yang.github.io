@@ -6,8 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
+  - title: "一作论文和专利"
     url: "/#publications"
+
+  - title: "Other Publications & Patents"
+    url: "/#other-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -15,16 +18,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
   - title: "Professional Experience"
     url: "/#-professional-experience"
-
-  - title: "Internships"
-    url: "/#-internships"
 
   - title: "Skills"
     url: "/#skills"
 
   - title: "Projects"
     url: "/#projects"
+
+  - title: "Gallery"
+    url: "/#gallery"

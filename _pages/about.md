@@ -15,13 +15,26 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<h1 style="text-align: center; font-size: 2em;">Hi! 👋 I am yuyue yang</h1>
+<!-- <h1 style="text-align: center; font-size: 2em;">Hi! 👋 I am yuyue yang</h1> -->
 
 <span class='anchor' id='about-me'></span>
 
 <p style="text-align: center; margin-bottom: 2em;">
-  <img src="/images/GBU.jpg" alt="我的装饰图片" style="width: 30%; border-radius: 10px;">
-  <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-top: 10px; letter-spacing: 0.5px;"> </span>
+  <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-bottom: 8px; letter-spacing: 0.5px;">Some moments I captured</span>
+  <div style="display: flex; gap: 0.8em; justify-content: center; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; max-width: 280px;">
+      <img src="/images/SZU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+      <span style="display: block; font-size: 0.75em; color: #999; margin-top: 4px;">SZU</span>
+    </div>
+    <div style="flex: 1; min-width: 150px; max-width: 280px;">
+      <img src="/images/SCNU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+      <span style="display: block; font-size: 0.75em; color: #999; margin-top: 4px;">SCNU</span>
+    </div>
+    <div style="flex: 1; min-width: 150px; max-width: 280px;">
+      <img src="/images/GBU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+      <span style="display: block; font-size: 0.75em; color: #999; margin-top: 4px;">GBU</span>
+    </div>
+  </div>
 </p>
 
 
@@ -29,7 +42,7 @@ redirect_from:
   <div style="flex: 1; min-width: 160px; text-align: center; padding: 1.4em 1em; background: #f8f9fa; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.06);">
     <i class="fas fa-map-marker-alt" style="font-size: 1.8em; color: #00369f; margin-bottom: 0.3em; display: block;"></i>
     <strong>Location</strong>
-    <p style="margin: 0.3em 0 0 0; font-size: 0.9em; color: #555;">Guangzhou / Shenzhen, China</p>
+    <p style="margin: 0.3em 0 0 0; font-size: 0.9em; color: #555;">Shenzhen / Foshan / Guangzhou , China</p>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center; padding: 1.4em 1em; background: #f8f9fa; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.06);">
     <i class="fas fa-microscope" style="font-size: 1.8em; color: #00369f; margin-bottom: 0.3em; display: block;"></i>
@@ -47,14 +60,14 @@ I received my B.S. degree in Optoelectronic Information Science and Engineering 
 
 Currently, I am an M.S. student in Integrated Circuit Engineering at [**South China Normal University (SCNU)**](https://english.scnu.edu.cn/), supervised by [Prof. Shichen Su (宿世臣)](http://semi.scnu.edu.cn/a/20150917/14.html) starting from 2024.
 
-Additionally, since August 2025, I have been a visiting student at Great Bay University, under the guidance of [Prof. Shuming Jiao (焦述铭)](https://scholar.google.com/citations?hl=zh-CN&user=jh7YHO4AAAAJ).
+Since August 2025, I have been a visiting student at Great Bay University, under the guidance of [Prof. Shuming Jiao (焦述铭)](https://scholar.google.com/citations?hl=zh-CN&user=jh7YHO4AAAAJ).
 
-> <i class="fas fa-lightbulb" style="color: #00369f;"></i> My research focuses on **computational optics, deep optics, optical design, and machine vision**. I am particularly interested in integrating deep learning with physical optics for applications like monocular depth estimation, metasurface design, and precision optical measurements.
+> <i class="fas fa-lightbulb" style="color: #00369f;"></i> My research focuses on **computational imaging, deep optics, optical design, and machine vision**.
 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications & Patents
+# 📝 First-Author Publications & Patents
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/depth_estimation.png' alt="Depth Estimation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,17 +82,18 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Comms</div><img src='images/Optics_Communications2025.jpg' alt="Metasurfaces" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Comms</div><img src='images/Optics_Communications2025.jpg' alt="Metasurfaces" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](#)
 
 **Yuyue Yang**, Azad, F., Huang, Z., Shen, M., Su, S.
 
-*Optics Communications* (or applicable journal), 2025
+*Optics Communications* , 2025
 - Improved traditional optical neural network algorithms, designing a compact asymmetric double-layer metasurface with 62.5% network degrees of freedom.
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent.png' alt="Patent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,6 +106,13 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
 </div>
 </div>
 
+
+<span class='anchor' id='other-publications'></span>
+
+# 📚 Other Publications & Patents
+- Huang, Z., Wang, W., **Yang, Y.**, Zhang, H., Wang, Y., Zhao, T., ... & Su, S. (2024). Controllable and reversible photoresponses in graphene-gated WSe2 field-effect transistors for communication, logic gate operations and image pre-processing. Nano Res., 18(6), 94907460.
+- Shen, M., Guo, S., Wang, Z., **Yang, Y.**, Li, C., Ding, M., & Wang, B. (2026). A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy. IEEE Transactions on Industrial Informatics.
+- Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026). Single-pixel imaging: principles, methods, algorithms, and applications. Advanced Imaging, 2, 1.
 
 
 
@@ -109,7 +130,7 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
     <div style="position: absolute; left: -2.05em; top: 0.2em; width: 12px; height: 12px; background: #00369f; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 0 2px #00369f;"></div>
     <span style="font-size: 0.85em; color: #00369f; font-weight: bold;">Sep. 2024 – Jun. 2027 (Expected)</span><br>
     <strong>Master of Engineering in Integrated Circuit Engineering</strong><br>
-    South China Normal University (SCNU), Guangzhou
+    South China Normal University (SCNU), Foshan
   </div>
   <div style="position: relative; margin-bottom: 0.5em;">
     <div style="position: absolute; left: -2.05em; top: 0.2em; width: 12px; height: 12px; background: #00369f; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 0 2px #00369f;"></div>
@@ -126,7 +147,7 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
   <div style="position: relative; margin-bottom: 1.6em;">
     <div style="position: absolute; left: -2.05em; top: 0.25em; width: 12px; height: 12px; background: #00369f; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 0 2px #00369f;"></div>
     <span style="font-size: 0.85em; color: #00369f; font-weight: bold;">Aug. 2023 – Aug. 2024</span><br>
-    <strong>Optical Engineer (Assistant Engineer)</strong>, Shenzhen Hengtian Weiyan Technology Co., Ltd.
+    <strong>Optical Engineer</strong>, Shenzhen Hengtian Weiyan Technology Co., Ltd.
     <ul style="margin-top: 0.3em; font-size: 0.95em;">
       <li>Responsible for the optical design and system-level evaluation of laser rangefinders.</li>
       <li>Assisted in locating and resolving optical calibration issues during mass production, optimizing optical component selection.</li>
@@ -142,25 +163,8 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
     </ul>
   </div>
 
-  <div style="position: relative; margin-bottom: 1.6em;">
-    <div style="position: absolute; left: -2.05em; top: 0.25em; width: 12px; height: 12px; background: #00369f; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 0 2px #00369f;"></div>
-    <span style="font-size: 0.85em; color: #00369f; font-weight: bold;">Dec. 2021 – Oct. 2022</span><br>
-    <strong>Research Assistant</strong>, Shenzhen University
-    <ul style="margin-top: 0.3em; font-size: 0.95em;">
-      <li>Developed embedded software and hardware for a Battery Management System (BMS) utilizing ultrasonic inspection.</li>
-      <li>Designed sensor fusion algorithms for state-of-charge (SoC) estimation, enhancing measurement stability.</li>
-    </ul>
-  </div>
 
-  <div style="position: relative; margin-bottom: 0.5em;">
-    <div style="position: absolute; left: -2.05em; top: 0.25em; width: 12px; height: 12px; background: #00369f; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 0 2px #00369f;"></div>
-    <span style="font-size: 0.85em; color: #00369f; font-weight: bold;">Jul. 2020 – Jul. 2021</span><br>
-    <strong>Founder &amp; Student Chair</strong>, Innovation Laboratory, Shenzhen University
-    <ul style="margin-top: 0.3em; font-size: 0.95em;">
-      <li>Founded and managed the college's first student-led scientific innovation laboratory.</li>
-      <li>Mentored teams for science events, resulting in multiple provincial and national competition awards.</li>
-    </ul>
-  </div>
+
 
 </div>
 
@@ -204,7 +208,7 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
 
 # 🚀 Projects {#projects}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Enterprise</div><img src='images/500x300.png' alt="Laser Rangefinder" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Enterprise</div><img src='images/LaserRangefinder.png' alt="Laser Rangefinder" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Coaxial Laser Rangefinder Project** | *Core Developer* | *2024*
@@ -215,7 +219,7 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Enterprise</div><img src='images/500x300.png' alt="Corneal Defect Detection" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Enterprise</div><img src='images/CornealDefectDetection.png' alt="Corneal Defect Detection" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Corneal Defect Detection System** | *Project Leader* | *2023*
@@ -226,7 +230,7 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/500x300.png' alt="Apple Sugar Measurement" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/AppleSugarMeasurement.png' alt="Apple Sugar Measurement" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Smartphone-based Non-destructive Apple Sugar Measurement** | *Captain* | *2021*
@@ -236,7 +240,7 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/500x300.png' alt="Smart Glasses" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/AI5G_Smart_Glasses.png' alt="Smart Glasses" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI+5G Smart Glasses for the Blind** | *Captain* | *2020*
@@ -245,6 +249,33 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
 
 </div>
 </div>
+
+# 📸 Team Gallery {#gallery}
+
+<div style="position: relative; max-width: 600px; margin: 0 auto 2em auto;">
+  <div id="gallery-track" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; border-radius: 10px; scrollbar-width: none; -ms-overflow-style: none;">
+    <div style="min-width: 100%; scroll-snap-align: start;">
+      <img src="images/TeamGallery/SCNU.jpg" style="width: 100%; display: block; border-radius: 10px;">
+    </div>
+    <div style="min-width: 100%; scroll-snap-align: start;">
+      <img src="images/TeamGallery/SZU.jpg" style="width: 100%; display: block; border-radius: 10px;">
+    </div>
+    <div style="min-width: 100%; scroll-snap-align: start;">
+      <img src="images/TeamGallery/GBU.jpg" style="width: 100%; display: block; border-radius: 10px;">
+    </div>
+        <div style="min-width: 100%; scroll-snap-align: start;">
+      <img src="images/TeamGallery/CIO.jpg" style="width: 100%; display: block; border-radius: 10px;">
+    </div>
+        <div style="min-width: 100%; scroll-snap-align: start;">
+      <img src="images/TeamGallery/CIT.jpg" style="width: 100%; display: block; border-radius: 10px;">
+    </div>
+  </div>
+  <button onclick="document.getElementById('gallery-track').scrollBy({left:-600,behavior:'smooth'})" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.4); color: white; border: none; padding: 10px 14px; cursor: pointer; border-radius: 0 4px 4px 0; font-size: 18px;">&#10094;</button>
+  <button onclick="document.getElementById('gallery-track').scrollBy({left:600,behavior:'smooth'})" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.4); color: white; border: none; padding: 10px 14px; cursor: pointer; border-radius: 4px 0 0 4px; font-size: 18px;">&#10095;</button>
+</div>
+<style>
+  #gallery-track::-webkit-scrollbar { display: none; }
+</style>
 
 ---
 
