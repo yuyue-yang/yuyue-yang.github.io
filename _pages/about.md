@@ -24,7 +24,6 @@ redirect_from:
   <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-top: 10px; letter-spacing: 0.5px;"> </span>
 </p>
 
-Hello! Welcome to my website. My name is **Yuyue Yang**. I come from Guangdong, China.
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 1.8em 0;">
   <div style="flex: 1; min-width: 160px; text-align: center; padding: 1.4em 1em; background: #f8f9fa; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.06);">
@@ -45,21 +44,12 @@ Hello! Welcome to my website. My name is **Yuyue Yang**. I come from Guangdong, 
 </div>
 
 I received my B.S. degree in Optoelectronic Information Science and Engineering from [**Shenzhen University**](https://en.szu.edu.cn/) in 2022. 
+
 Currently, I am an M.S. student in Integrated Circuit Engineering at [**South China Normal University (SCNU)**](https://english.scnu.edu.cn/), supervised by [Prof. Shichen Su (宿世臣)](http://semi.scnu.edu.cn/a/20150917/14.html) starting from 2024.
+
 Additionally, since August 2025, I have been a visiting student at Great Bay University, under the guidance of [Prof. Shuming Jiao (焦述铭)](https://scholar.google.com/citations?hl=zh-CN&user=jh7YHO4AAAAJ).
 
 > <i class="fas fa-lightbulb" style="color: #00369f;"></i> My research focuses on **computational optics, deep optics, optical design, and machine vision**. I am particularly interested in integrating deep learning with physical optics for applications like monocular depth estimation, metasurface design, and precision optical measurements.
-
-
-
-# 🔥 News
-- *2026*: &nbsp;🎉🎉 Our paper "Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation" is completed/published.
-- *2025*: &nbsp;🎉🎉 Honored to receive the BYD Scholarship and Shenzhen University "Niu Hanben" Scholarship.
-- *Aug. 2025*: &nbsp;🎉🎉 Our paper "Asymmetric Double-Layer Compact Metasurfaces based on Phase-Progressive Diffractive Networks" was accepted.
-- *Sep. 2024*: &nbsp;🎓 Started my M.S. degree in Integrated Circuit Engineering at South China Normal University (SCNU).
-- *Aug. 2024*: &nbsp;🎉🎉 Our invention patent for a monocular laser rangefinder (CN118642263A) was successfully published.
-- *2021*: &nbsp;🏆 Won the 2nd Prize in the Southeast Region at the 9th National College Students Optoelectronic Design Competition (Captain).
-- *2020*: &nbsp;🏆 Won the 2nd Prize in the National Finals at the 8th National College Students Optoelectronic Design Competition (Captain).
 
 
 <span class='anchor' id='publications'></span>
@@ -107,8 +97,8 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
 
 # 🎖 Honors and Awards
 - *2025* BYD Scholarship
-- *2025* Shenzhen University "Niu Hanben" Scholarship
-- *2025* "Innovation and Entrepreneurship Star" 2nd Prize (Team)
+- *2021* Shenzhen University "Niu Hanben" Scholarship
+- *2021* Shenzhen University "Innovation and Entrepreneurship Star" 2nd Prize (Team)
 - *2021* **2nd Prize (Southeast Region)**, 9th National College Students Optoelectronic Design Competition (Captain)
 - *2020* **2nd Prize (National Finals)**, 8th National College Students Optoelectronic Design Competition (Captain)
 
@@ -202,7 +192,6 @@ Additionally, since August 2025, I have been a visiting student at Great Bay Uni
   <i class="fas fa-globe" style="color: #00369f; width: 24px;"></i> <strong>Languages:</strong>
   <span style="display: inline-flex; flex-wrap: wrap; gap: 6px; vertical-align: middle; margin-left: 4px;">
     <span style="background: #2e7d32; color: white; padding: 3px 14px; border-radius: 16px; font-size: 0.85em;">English (CET-6)</span>
-    <span style="background: #2e7d32; color: white; padding: 3px 14px; border-radius: 16px; font-size: 0.85em;">Mandarin (Native)</span>
   </span>
 </div>
 
