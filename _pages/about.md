@@ -19,23 +19,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p style="text-align: center; margin-bottom: 2em;">
-  <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-bottom: 8px; letter-spacing: 0.5px;">Some moments I captured</span>
-  <div style="display: flex; gap: 0.8em; justify-content: center; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 150px; max-width: 280px;">
-      <img src="/images/SZU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-      <span style="display: block; font-size: 0.75em; color: #999; margin-top: 4px;">SZU</span>
-    </div>
-    <div style="flex: 1; min-width: 150px; max-width: 280px;">
-      <img src="/images/SCNU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-      <span style="display: block; font-size: 0.75em; color: #999; margin-top: 4px;">SCNU</span>
-    </div>
-    <div style="flex: 1; min-width: 150px; max-width: 280px;">
-      <img src="/images/GBU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-      <span style="display: block; font-size: 0.75em; color: #999; margin-top: 4px;">GBU</span>
-    </div>
+<div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 1.8em 0;">
+  <div style="flex: 1; min-width: 160px; text-align: center;">
+    <img src="/images/SZU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <span style="display: block; font-size: 0.85em; color: #777; margin-top: 6px;">SZU</span>
   </div>
-</p>
+  <div style="flex: 1; min-width: 160px; text-align: center;">
+    <img src="/images/SCNU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <span style="display: block; font-size: 0.85em; color: #777; margin-top: 6px;">SCNU</span>
+  </div>
+  <div style="flex: 1; min-width: 160px; text-align: center;">
+    <img src="/images/GBU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <span style="display: block; font-size: 0.85em; color: #777; margin-top: 6px;">GBU</span>
+  </div>
+</div>
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 1.8em 0;">
@@ -82,7 +79,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Comms</div><img src='images/Optics_Communications2025.jpg' alt="Metasurfaces" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Comms</div><img src='images/Optics_Communications2025.jpg' alt="Metasurfaces" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](#)
@@ -95,7 +92,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent.png' alt="Patent" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent.png' alt="Patent" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A monocular laser rangefinder telescope, measurement method and rangefinder (CN118642263A)](#)
@@ -240,7 +237,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/AI5G_Smart_Glasses.png' alt="Smart Glasses" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/AI5G_Smart_Glasses.jpg' alt="Smart Glasses" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI+5G Smart Glasses for the Blind** | *Captain* | *2020*
@@ -252,30 +249,13 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 
 # 📸 Team Gallery {#gallery}
 
-<div style="position: relative; max-width: 600px; margin: 0 auto 2em auto;">
-  <div id="gallery-track" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; border-radius: 10px; scrollbar-width: none; -ms-overflow-style: none;">
-    <div style="min-width: 100%; scroll-snap-align: start;">
-      <img src="images/TeamGallery/SCNU.jpg" style="width: 100%; display: block; border-radius: 10px;">
-    </div>
-    <div style="min-width: 100%; scroll-snap-align: start;">
-      <img src="images/TeamGallery/SZU.jpg" style="width: 100%; display: block; border-radius: 10px;">
-    </div>
-    <div style="min-width: 100%; scroll-snap-align: start;">
-      <img src="images/TeamGallery/GBU.jpg" style="width: 100%; display: block; border-radius: 10px;">
-    </div>
-        <div style="min-width: 100%; scroll-snap-align: start;">
-      <img src="images/TeamGallery/CIO.jpg" style="width: 100%; display: block; border-radius: 10px;">
-    </div>
-        <div style="min-width: 100%; scroll-snap-align: start;">
-      <img src="images/TeamGallery/CIT.jpg" style="width: 100%; display: block; border-radius: 10px;">
-    </div>
-  </div>
-  <button onclick="document.getElementById('gallery-track').scrollBy({left:-600,behavior:'smooth'})" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.4); color: white; border: none; padding: 10px 14px; cursor: pointer; border-radius: 0 4px 4px 0; font-size: 18px;">&#10094;</button>
-  <button onclick="document.getElementById('gallery-track').scrollBy({left:600,behavior:'smooth'})" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.4); color: white; border: none; padding: 10px 14px; cursor: pointer; border-radius: 4px 0 0 4px; font-size: 18px;">&#10095;</button>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 2em;">
+  <img src="images/TeamGallery/SCNU.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="images/TeamGallery/SZU.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="images/TeamGallery/GBU.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="images/TeamGallery/CIO.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="images/TeamGallery/CIT.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 </div>
-<style>
-  #gallery-track::-webkit-scrollbar { display: none; }
-</style>
 
 ---
 
