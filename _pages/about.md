@@ -31,7 +31,7 @@ I received my B.S. degree in Optoelectronic Information Science and Engineering 
 
 My research focuses on **computational optics, deep optics, optical design, and machine vision**. I am particularly interested in integrating deep learning with physical optics for applications like monocular depth estimation, metasurface design, and precision optical measurements.
 
-My supervisor are [Prof. Shichen Su (宿世臣)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) and [Prof. Shuming Jiao (焦述铭)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en)
+My supervisor are [Prof. Shichen Su (宿世臣)](http://semi.scnu.edu.cn/a/20150917/14.html) and [Prof. Shuming Jiao (焦述铭)](https://scholar.google.com/citations?hl=zh-CN&user=jh7YHO4AAAAJ)
 
 
 <!-- My research interests include Magnetic robotics, Medical robotics, and Soft robotics. -->
@@ -55,7 +55,7 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 # 📝 Publications & Patents
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/depth_estimation.pdf' alt="Depth Estimation" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/depth_estimation.png' alt="Depth Estimation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](#)
