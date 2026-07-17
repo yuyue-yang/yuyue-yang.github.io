@@ -22,15 +22,15 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 1.8em 0;">
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <img src="/images/SZU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <span style="display: block; font-size: 0.85em; color: #777; margin-top: 6px;">SZU</span>
+    <span style="display: block; font-size: 1.5em; color: #777; margin-top: 6px;">SZU</span>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <img src="/images/SCNU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <span style="display: block; font-size: 0.85em; color: #777; margin-top: 6px;">SCNU</span>
+    <span style="display: block; font-size: 1.5em; color: #777; margin-top: 6px;">SCNU</span>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <img src="/images/GBU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <span style="display: block; font-size: 0.85em; color: #777; margin-top: 6px;">GBU</span>
+    <span style="display: block; font-size: 1.5em; color: #777; margin-top: 6px;">GBU</span>
   </div>
 </div>
 
@@ -39,7 +39,7 @@ redirect_from:
   <div style="flex: 1; min-width: 160px; text-align: center; padding: 1.4em 1em; background: #f8f9fa; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.06);">
     <i class="fas fa-map-marker-alt" style="font-size: 1.8em; color: #00369f; margin-bottom: 0.3em; display: block;"></i>
     <strong>Location</strong>
-    <p style="margin: 0.3em 0 0 0; font-size: 0.9em; color: #555;">Shenzhen / Foshan / Guangzhou , China</p>
+    <p style="margin: 0.3em 0 0 0; font-size: 0.9em; color: #555;">Shenzhen / Foshan / Dongguan , China</p>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center; padding: 1.4em 1em; background: #f8f9fa; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.06);">
     <i class="fas fa-microscope" style="font-size: 1.8em; color: #00369f; margin-bottom: 0.3em; display: block;"></i>
@@ -66,7 +66,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 
 # 📝 First-Author Publications & Patents
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/depth_estimation.png' alt="Depth Estimation" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/depth_estimation.png' alt="Depth Estimation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](#)
@@ -79,7 +79,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Comms</div><img src='images/Optics_Communications2025.jpg' alt="Metasurfaces" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Comms</div><img src='images/Optics_Communications2025.jpg' alt="Metasurfaces" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](#)
@@ -92,7 +92,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent.png' alt="Patent" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent.png' alt="Patent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A monocular laser rangefinder telescope, measurement method and rangefinder (CN118642263A)](#)
@@ -106,7 +106,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 
 <span class='anchor' id='other-publications'></span>
 
-# 📚 Other Publications & Patents
+# 📚 Other Publications
 - Huang, Z., Wang, W., **Yang, Y.**, Zhang, H., Wang, Y., Zhao, T., ... & Su, S. (2024). Controllable and reversible photoresponses in graphene-gated WSe2 field-effect transistors for communication, logic gate operations and image pre-processing. Nano Res., 18(6), 94907460.
 - Shen, M., Guo, S., Wang, Z., **Yang, Y.**, Li, C., Ding, M., & Wang, B. (2026). A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy. IEEE Transactions on Industrial Informatics.
 - Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026). Single-pixel imaging: principles, methods, algorithms, and applications. Advanced Imaging, 2, 1.
