@@ -108,7 +108,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 
 <hr class="section-divider">
 
-<div class="section-light">
+<div class="section-light" markdown="1">
 
 # 📚 Other Publications
 
@@ -204,9 +204,11 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
 
 <hr class="section-divider">
 
-<div class="section-light">
+<div class="section-light" markdown="1">
 
-# 🛠️ Skills {#skills}
+<span class='anchor' id='skills'></span>
+
+# 🛠️ Skills
 
 <div style="margin-bottom: 1em;">
   <i class="fas fa-code" style="color: #00369f; width: 24px;"></i> <strong>Programming:</strong>
@@ -246,7 +248,9 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
 
 <hr class="section-divider">
 
-# 🚀 Projects {#projects}
+<span class='anchor' id='projects'></span>
+
+# 🚀 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Enterprise</div><a href='images/LaserRangefinder.png'><img src='images/LaserRangefinder.png' alt="Laser Rangefinder" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -299,8 +303,7 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
   <a href="images/TeamGallery/SZU_2025.jpg"><img class="gallery-img" src="images/TeamGallery/SZU_2025.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></a>
   <a href="images/TeamGallery/SCNU.jpg"><img class="gallery-img" src="images/TeamGallery/SCNU.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></a>
   <a href="images/TeamGallery/GBU.jpg"><img class="gallery-img" src="images/TeamGallery/GBU.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></a>
-  <a href="images/TeamGallery/CIO.jpg"><img class="gallery-img" src="images/TeamGallery/CIO.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></a>
-    <a href="images/TeamGallery/CIT.jpg"><img class="gallery-img" src="images/TeamGallery/CIT.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></a>
+  <a href="images/TeamGallery/CIT.jpg"><img class="gallery-img" src="images/TeamGallery/CIT.jpg" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></a>
 </div>
 
 ---
