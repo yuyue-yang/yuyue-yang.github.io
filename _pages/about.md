@@ -22,15 +22,15 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 1.8em 0;">
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/SZU.jpg"><img src="/images/SZU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.5em; color: #444; margin-top: 6px;">Shenzhen University</span>
+    <span style="display: block; font-size: 1.2em; font-weight: 600; color: #00369f; margin-top: 8px;">Shenzhen University</span>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/SCNU.jpg"><img src="/images/SCNU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.5em; color: #444; margin-top: 6px;">South China Normal University</span>
+    <span style="display: block; font-size: 1.2em; font-weight: 600; color: #00369f; margin-top: 8px;">South China Normal University</span>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/GBU.jpg"><img src="/images/GBU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.5em; color: #444; margin-top: 6px;">Great Bay University</span>
+    <span style="display: block; font-size: 1.2em; font-weight: 600; color: #00369f; margin-top: 8px;">Great Bay University</span>
   </div>
 </div>
 
@@ -57,7 +57,9 @@ I received my B.S. degree in Optoelectronic Information Science and Engineering 
 
 Currently, I am an M.S. student in Integrated Circuit Engineering at [**South China Normal University (SCNU)**](https://english.scnu.edu.cn/), supervised by [Prof. Shichen Su (宿世臣)](http://semi.scnu.edu.cn/a/20150917/14.html) starting from 2024.
 
-Since August 2025, I have been a visiting student at Great Bay University, under the guidance of [Prof. Shuming Jiao (焦述铭)](https://scholar.google.com/citations?hl=zh-CN&user=jh7YHO4AAAAJ).
+From Aug. 2025 to Aug. 2026, I was a visiting student at [**Great Bay University**], under the guidance of [Prof. Shuming Jiao (焦述铭)](https://scholar.google.com/citations?hl=zh-CN&user=jh7YHO4AAAAJ).
+
+Currently, I am an optical intern at [**Shenzhen Ledarobot**], working on LiDAR development.
 
 > <i class="fas fa-lightbulb" style="color: #00369f;"></i> My research focuses on **computational imaging, deep optics, optical design, and machine vision**.
 
@@ -69,7 +71,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><a href='images/depth_estimation.png'><img src='images/depth_estimation.png' alt="Depth Estimation" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](#)
+[Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.608898)
 
 **Yuyue Yang**, et al.
 
@@ -82,7 +84,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Comms</div><a href='images/Optics_Communications2025.jpg'><img src='images/Optics_Communications2025.jpg' alt="Metasurfaces" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](#)
+[Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://www.sciencedirect.com/science/article/pii/S0030401825009046)
 
 **Yuyue Yang**, Azad, F., Huang, Z., Shen, M., Su, S.
 
@@ -95,7 +97,7 @@ Since August 2025, I have been a visiting student at Great Bay University, under
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><a href='images/patent.png'><img src='images/patent.png' alt="Patent" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A monocular laser rangefinder telescope, measurement method and rangefinder (CN118642263A)](#)
+[A monocular laser rangefinder telescope, measurement method and rangefinder (CN118642263A)](https://www.qcc.com/zhuanliDetail/7c1c584b5dc3d72aa4ed131fe65ccf72.html)
 
 **Yuyue Yang**, et al.
 
