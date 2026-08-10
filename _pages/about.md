@@ -22,15 +22,15 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 1.8em 0;">
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/SZU.jpg"><img src="/images/SZU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.2em; font-weight: 600; color: #00369f; margin-top: 8px;">Shenzhen University</span>
+    <span style="display: block; font-size: 1.5em; color: #00369f; margin-top: 8px;">Shenzhen University</span>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/SCNU.jpg"><img src="/images/SCNU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.2em; font-weight: 600; color: #00369f; margin-top: 8px;">South China Normal University</span>
+    <span style="display: block; font-size: 1.5em; color: #00369f; margin-top: 8px;">South China Normal University</span>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/GBU.jpg"><img src="/images/GBU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.2em; font-weight: 600; color: #00369f; margin-top: 8px;">Great Bay University</span>
+    <span style="display: block; font-size: 1.5em; color: #00369f; margin-top: 8px;">Great Bay University</span>
   </div>
 </div>
 
