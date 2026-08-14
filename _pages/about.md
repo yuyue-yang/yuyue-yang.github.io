@@ -53,13 +53,13 @@ redirect_from:
   </div>
 </div>
 
-I received my B.S. degree in Optoelectronic Information Science and Engineering from [**Shenzhen University**](https://en.szu.edu.cn/) in 2022. 
+I received my B.S. degree in Optoelectronic Information Science and Engineering from [**Shenzhen University (深圳大学)**](https://en.szu.edu.cn/) in 2022. 
 
-Currently, I am an M.S. student in Integrated Circuit Engineering at [**South China Normal University (SCNU)**](https://english.scnu.edu.cn/), supervised by [Prof. Shichen Su (宿世臣)](http://semi.scnu.edu.cn/a/20150917/14.html) starting from 2024.
+Currently, I am an M.S. student in Integrated Circuit Engineering at [**South China Normal University (华南师范大学)**](https://english.scnu.edu.cn/), supervised by [Prof. Shichen Su (宿世臣)](http://semi.scnu.edu.cn/a/20150917/14.html) starting from 2024.
 
-From Aug. 2025 to Aug. 2026, I was a visiting student at [**Great Bay University**], under the guidance of [Prof. Shuming Jiao (焦述铭)](https://scholar.google.com/citations?hl=zh-CN&user=jh7YHO4AAAAJ).
+From Aug. 2025 to Aug. 2026, I was a visiting student at **Great Bay University (大湾区大学)**, under the guidance of [Prof. Shuming Jiao (焦述铭)](https://scholar.google.com/citations?hl=zh-CN&user=jh7YHO4AAAAJ).
 
-Currently, I am an optical intern at [**Shenzhen Ledarobot**], working on LiDAR development.
+Currently, I am an optical intern at **Shenzhen Ledarobot (深圳乐动机器人公司)**, working on LiDAR development.
 
 > <i class="fas fa-lightbulb" style="color: #00369f;"></i> My research focuses on **computational imaging, deep optics, optical design, and machine vision**.
 
@@ -68,14 +68,14 @@ Currently, I am an optical intern at [**Shenzhen Ledarobot**], working on LiDAR 
 
 # 📝 First-Author Publications & Patents
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><a href='images/depth_estimation.png'><img src='images/depth_estimation.png' alt="Depth Estimation" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><a href='images/depth_estimation.png'><img src='images/depth_estimation.png' alt="Depth Estimation" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.608898)
 
 **Yuyue Yang**, et al.
 
-*Optics Express / Under Review*, 2026
+*Optics Express*, 2026
 - Developed a differentiable ray-tracing engine using PyTorch to optimize spherical lens groups by introducing axial chromatic aberration loss.
 - Achieved 0.182m RMSE on the NYU v2 dataset with extremely low parameters (25M), surpassing mainstream large visual models.
 </div>
