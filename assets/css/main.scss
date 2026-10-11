@@ -47,7 +47,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
     
 
     .paper-box-image{
@@ -111,8 +111,8 @@ h1:before, .anchor:before {
 /* Section background wrappers */
 .section-light {
     background: #f4f7fb;
-    margin: 2.5em -1.5em;
-    padding: 2em 1.5em;
+    margin: 1.8em -1.5em;
+    padding: 1.2em 1.5em;
     border-radius: 10px;
 }
 
@@ -121,7 +121,7 @@ h1:before, .anchor:before {
     border: 0;
     height: 2px;
     background: linear-gradient(to right, transparent, #00369f 20%, #00369f 80%, transparent);
-    margin: 2.5em 0;
+    margin: 1.5em 0;
 }
 
 /* Info card hover effects */
@@ -165,7 +165,7 @@ h1:before, .anchor:before {
 /* Other Publications card */
 .pub-card {
     background: #f8f9fa;
-    padding: 0.9em 1.2em;
+    padding: 0.6em 1.2em;
     border-radius: 8px;
     margin-bottom: 0.5em;
     border-left: 3px solid #00369f;
@@ -182,7 +182,7 @@ h1:before, .anchor:before {
     display: flex;
     align-items: center;
     gap: 0.9em;
-    padding: 0.7em 1em;
+    padding: 0.45em 1em;
     background: #f8f9fa;
     border-radius: 8px;
     margin-bottom: 0.5em;

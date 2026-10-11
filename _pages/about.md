@@ -22,15 +22,15 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 1.8em 0;">
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/SZU.jpg"><img src="/images/SZU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.5em; color: #00369f; margin-top: 8px;">Shenzhen University</span>
+    <span style="display: block; font-size: 1.1em; color: #00369f; margin-top: 8px;">Shenzhen University</span>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/SCNU.jpg"><img src="/images/SCNU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.5em; color: #00369f; margin-top: 8px;">South China Normal University</span>
+    <span style="display: block; font-size: 1.1em; color: #00369f; margin-top: 8px;">South China Normal University</span>
   </div>
   <div style="flex: 1; min-width: 160px; text-align: center;">
     <a href="/images/GBU.jpg"><img src="/images/GBU.jpg" style="width: 100%; border-radius: 10px; aspect-ratio: 4/3; object-fit: cover; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"></a>
-    <span style="display: block; font-size: 1.5em; color: #00369f; margin-top: 8px;">Great Bay University</span>
+    <span style="display: block; font-size: 1.1em; color: #00369f; margin-top: 8px;">Great Bay University</span>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ redirect_from:
   <div class="info-card" style="flex: 1; min-width: 160px; text-align: center; padding: 1.4em 1em; background: #f8f9fa; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.06);">
     <i class="fas fa-graduation-cap" style="font-size: 1.8em; color: #00369f; margin-bottom: 0.3em; display: block;"></i>
     <strong>Education</strong>
-    <p style="margin: 0.3em 0 0 0; font-size: 1em; color: #333;">M.S. at SCNU (2024–2027)</p>
+    <p style="margin: 0.3em 0 0 0; font-size: 1em; color: #333;">M.S. at South China Normal University (2024–2027)</p>
   </div>
 </div>
 
@@ -66,14 +66,14 @@ Currently, I am an optical intern at **Shenzhen Ledarobot (深圳乐动机器人
 
 <span class='anchor' id='publications'></span>
 
-# 📝 First-Author Publications & Patents
+# 📝 First-Author Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><a href='images/depth_estimation.png'><img src='images/depth_estimation.png' alt="Depth Estimation" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.608898)
 
-**Yuyue Yang**, et al.
+**Yuyue Yang**, M Shen, C Wang, S Su, W Huang, S Jiao.
 
 *Optics Express*, 2026
 - Developed a differentiable ray-tracing engine using PyTorch to optimize spherical lens groups by introducing axial chromatic aberration loss.
@@ -123,7 +123,7 @@ Shen, M., Guo, S., Wang, Z., **Yang, Y.**, Li, C., Ding, M., & Wang, B. (2026). 
 </div>
 
 <div class="pub-card" markdown="1">
-Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026). Single-pixel imaging: principles, methods, algorithms, and applications. *Advanced Imaging*, 2, 1.
+Shuming Jiao, Hongchao Liu, Suheng Zhang, Cheng Zhou, Yujin Liu, Wen Chen, Wei Huang, Jintao Xie, Chao Wang, **Yuyue Yang**, Xin Wu, Kaixing Du, Yang Pengh. (2026). Single-pixel imaging: principles, methods, algorithms, and applications. *Advanced Imaging*, 2, 1.
 </div>
 
 
@@ -133,8 +133,12 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
 # 🎖 Honors and Awards
 
 <div class="honor-card">
+  <span class="honor-year">2026</span>
+  <span>**National Scholarship**</span>
+</div>
+<div class="honor-card">
   <span class="honor-year">2025</span>
-  <span>BYD Scholarship</span>
+  <span>**BYD Scholarship**</span>
 </div>
 <div class="honor-card">
   <span class="honor-year">2021</span>
@@ -142,15 +146,11 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
 </div>
 <div class="honor-card">
   <span class="honor-year">2021</span>
-  <span>Shenzhen University "Innovation and Entrepreneurship Star" 2nd Prize (Team)</span>
-</div>
-<div class="honor-card">
-  <span class="honor-year">2021</span>
-  <span><strong>2nd Prize (Southeast Region)</strong>, 9th National College Students Optoelectronic Design Competition (Captain)</span>
+  <span>2nd Prize (Southeast Region), 9th National College Students Optoelectronic Design Competition (Captain)</span>
 </div>
 <div class="honor-card">
   <span class="honor-year">2020</span>
-  <span><strong>2nd Prize (National Finals)</strong>, 8th National College Students Optoelectronic Design Competition (Captain)</span>
+  <span>2nd Prize (**National Finals**), 8th National College Students Optoelectronic Design Competition (Captain)</span>
 </div>
 
 </div>
@@ -164,7 +164,7 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
     <div style="position: absolute; left: -2.05em; top: 0.2em; width: 12px; height: 12px; background: #00369f; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 0 2px #00369f;"></div>
     <span style="font-size: 1em; color: #00369f; font-weight: bold;">Sep. 2024 – Jun. 2027 (Expected)</span><br>
     <strong>Master of Engineering in Integrated Circuit Engineering</strong><br>
-    South China Normal University (SCNU), Foshan
+    South China Normal University, Foshan
   </div>
   <div class="timeline-item" style="position: relative; margin-bottom: 0.5em;">
     <div style="position: absolute; left: -2.05em; top: 0.2em; width: 12px; height: 12px; background: #00369f; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 0 2px #00369f;"></div>
@@ -212,7 +212,7 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
 
 # 🛠️ Skills
 
-<div style="margin-bottom: 1em;">
+<div style="margin-bottom: 0.6em;">
   <i class="fas fa-code" style="color: #00369f; width: 24px;"></i> <strong>Programming:</strong>
   <span style="display: inline-flex; flex-wrap: wrap; gap: 6px; vertical-align: middle; margin-left: 4px;">
     <span class="skill-tag" style="background: #00369f; color: white; padding: 3px 14px; border-radius: 16px; font-size: 1em;">Python</span>
@@ -221,7 +221,7 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
   </span>
 </div>
 
-<div style="margin-bottom: 1em;">
+<div style="margin-bottom: 0.6em;">
   <i class="fas fa-tools" style="color: #00369f; width: 24px;"></i> <strong>Tools &amp; Software:</strong>
   <span style="display: inline-flex; flex-wrap: wrap; gap: 6px; vertical-align: middle; margin-left: 4px;">
     <span class="skill-tag" style="background: #4a6fa5; color: white; padding: 3px 14px; border-radius: 16px; font-size: 1em;">Zemax</span>
@@ -232,14 +232,14 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
   </span>
 </div>
 
-<div style="margin-bottom: 1em;">
+<div style="margin-bottom: 0.6em;">
   <i class="fas fa-globe" style="color: #00369f; width: 24px;"></i> <strong>Languages:</strong>
   <span style="display: inline-flex; flex-wrap: wrap; gap: 6px; vertical-align: middle; margin-left: 4px;">
     <span class="skill-tag" style="background: #2e7d32; color: white; padding: 3px 14px; border-radius: 16px; font-size: 1em;">English (CET-6)</span>
   </span>
 </div>
 
-<div style="margin-bottom: 1em;">
+<div style="margin-bottom: 0.6em;">
   <i class="fas fa-certificate" style="color: #00369f; width: 24px;"></i> <strong>Certifications:</strong>
   <span style="display: inline-flex; flex-wrap: wrap; gap: 6px; vertical-align: middle; margin-left: 4px;">
     <span class="skill-tag" style="background: #6c757d; color: white; padding: 3px 14px; border-radius: 16px; font-size: 1em;">Assistant Engineer (Shenzhen)</span>
@@ -260,7 +260,7 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
 **Coaxial Laser Rangefinder Project** | *Core Developer* | *2024*
 - Participated in the development of a coaxial laser rangefinder based on the 905nm ToF method.
 - Formulated system specifications and integrated the laser transceiver module using lens splicing and beam-splitting systems.
-- Conducted optical path design and non-sequential simulation using **Zemax** to evaluate and verify optical component performance.
+- Conducted optical path design and non-sequential simulation using Zemax to evaluate and verify optical component performance.
 
 </div>
 </div>
@@ -271,7 +271,7 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
 **Corneal Defect Detection System** | *Project Leader* | *2023*
 - Led the design of an automated defect detection system for production lines.
 - Independently selected core hardware (LED light sources, industrial cameras, lenses) and optimized algorithms for various defect types.
-- Deployed **YOLO** deep learning models for real-time inference and data statistics.
+- Deployed YOLO deep learning models for real-time inference and data statistics.
 
 </div>
 </div>
@@ -291,7 +291,7 @@ Jiao, S., Liu, H., Zhang, S., Zhou, C., Liu, Y., Chen, W., ... & Pengh, Y. (2026
 
 **AI+5G Smart Glasses for the Blind** | *Captain* | *2020*
 - Designed smart glasses integrating binocular ranging, object recognition, and voice broadcast functions.
-- Led the implementation of binocular ranging algorithms and successfully deployed the **YOLO** model on a development board.
+- Led the implementation of binocular ranging algorithms and successfully deployed the YOLO model on a development board.
 
 </div>
 </div>
