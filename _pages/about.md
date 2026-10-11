@@ -134,11 +134,11 @@ Shuming Jiao, Hongchao Liu, Suheng Zhang, Cheng Zhou, Yujin Liu, Wen Chen, Wei H
 
 <div class="honor-card">
   <span class="honor-year">2026</span>
-  <span>**National Scholarship**</span>
+  <span><strong>National Scholarship</strong></span>
 </div>
 <div class="honor-card">
   <span class="honor-year">2025</span>
-  <span>**BYD Scholarship**</span>
+  <span><strong>BYD Scholarship</strong></span>
 </div>
 <div class="honor-card">
   <span class="honor-year">2021</span>
@@ -150,7 +150,7 @@ Shuming Jiao, Hongchao Liu, Suheng Zhang, Cheng Zhou, Yujin Liu, Wen Chen, Wei H
 </div>
 <div class="honor-card">
   <span class="honor-year">2020</span>
-  <span>2nd Prize (**National Finals**), 8th National College Students Optoelectronic Design Competition (Captain)</span>
+  <span>2nd Prize (<strong>National Finals</strong>), 8th National College Students Optoelectronic Design Competition (Captain)</span>
 </div>
 
 </div>

@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuyue Yang(杨宇跃)"
+  name             : "Yuyue Yang"
+  name_cn          : "杨宇跃"
   avatar           : "images/yyy.png"
   bio              : "M.S. Student at SCNU"
   location         : "GuangDong, China"
